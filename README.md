@@ -4,7 +4,7 @@
 
 A collection of papers and related materials dedicated to partial label learning.
 
-**Partial Label Leaning** is an emerging weakly-supervised learning framework where each training example is associated with multiple candidate labels among which only one label is valid. The task of partial label learning is to learn a multi-class classification model from the partial label training examples, which can assign proper class label for the unseen instance in prediction phase. The task of learning from examples with candidate label sets naturally arises under many real-world scenarios, such as web mining, multimedia content analysis, ecoinformatics, natural language processing, etc.
+**Partial Label Leaning** is an emerging weakly-supervised learning framework where each training example is associated with multiple candidate labels among which only one label is valid. The key assumption of PLL is that the ground-truth label is concealed in the candidate label set but remains unknown. The task of partial label learning is to learn a multi-class classification model from the partial label training examples, which can assign proper class label for the unseen instance in prediction phase. The task of learning from examples with candidate label sets naturally arises under many real-world scenarios, such as web mining, multimedia content analysis, ecoinformatics, natural language processing, etc.
 
 # Table of Contents
 
