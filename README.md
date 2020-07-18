@@ -38,4 +38,6 @@ A collection of papers and related materials dedicated to partial label learning
 - [Learning from candidate labeling sets](https://www.researchgate.net/publication/47806571_Learning_from_Candidate_Labeling_Sets) (NIPS'10) MaximumMargin Set learning (MMS)
 - [Ambiguously labeled learning using dictionaries](https://ieeexplore.ieee.org/document/6906287) (TIFS 2014)
 - [Learning from Ambiguously Labeled Face Images](https://ieeexplore.ieee.org/document/7968363/) (TPAMI 2018)
+- [Partial Label Learning with Batch Label Correction](https://aaai.org/ojs/index.php/AAAI/article/view/6132) (AAAI'20)
+> An MLP-based approach for batch label predction and uses tricks of mixUp and knowledge distillation
 
